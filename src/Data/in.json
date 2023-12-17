@@ -1,0 +1,145 @@
+[
+  {
+    "city": "Nur-Sultan",
+    "lat": "51.1694",
+    "lng": "71.4491",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Nur-Sultan",
+    "capital": "primary",
+    "population": "1112000",
+    "population_proper": "1112000"
+  },
+  {
+    "city": "Almaty",
+    "lat": "43.2220",
+    "lng": "76.8512",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Almaty City",
+    "capital": "former",
+    "population": "1747000",
+    "population_proper": "1747000"
+  },
+  {
+    "city": "Shymkent",
+    "lat": "42.3174",
+    "lng": "69.5918",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Ongtüstik Qazaqstan",
+    "capital": "",
+    "population": "1000000",
+    "population_proper": "1000000"
+  },
+  {
+    "city": "Karaganda",
+    "lat": "49.8333",
+    "lng": "73.1667",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Qaraghandy",
+    "capital": "",
+    "population": "487600",
+    "population_proper": "487600"
+  },
+  {
+    "city": "Aktobe",
+    "lat": "50.2797",
+    "lng": "57.2072",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Aqtöbe",
+    "capital": "",
+    "population": "345604",
+    "population_proper": "345604"
+  },
+  {
+    "city": "Taraz",
+    "lat": "42.9000",
+    "lng": "71.3667",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Ongtüstik Qazaqstan",
+    "capital": "",
+    "population": "330100",
+    "population_proper": "330100"
+  },
+  {
+    "city": "Pavlodar",
+    "lat": "52.2833",
+    "lng": "76.9667",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Pavlodar",
+    "capital": "",
+    "population": "329002",
+    "population_proper": "329002"
+  },
+  {
+    "city": "Ust-Kamenogorsk",
+    "lat": "49.9631",
+    "lng": "82.6094",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "East Kazakhstan",
+    "capital": "",
+    "population": "311566",
+    "population_proper": "311566"
+  },
+  {
+    "city": "Semey",
+    "lat": "50.4111",
+    "lng": "80.2275",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "East Kazakhstan",
+    "capital": "",
+    "population": "298259",
+    "population_proper": "298259"
+  },
+  {
+    "city": "Kostanay",
+    "lat": "53.2144",
+    "lng": "63.6246",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Qostanay",
+    "capital": "",
+    "population": "210947",
+    "population_proper": "210947"
+  },
+  {
+    "city": "Astana",
+    "lat": "51.1694",
+    "lng": "71.4491",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Nur-Sultan",
+    "capital": "primary",
+    "population": "1112000",
+    "population_proper": "1112000"
+  },
+  {
+    "city": "Atyrau",
+    "lat": "47.1167",
+    "lng": "51.8667",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Atyrau",
+    "capital": "",
+    "population": "229595",
+    "population_proper": "229595"
+  },
+  {
+    "city": "Kyzylorda",
+    "lat": "44.8500",
+    "lng": "65.5000",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Qyzylorda",
+    "capital": "",
+    "population": "174000",
+    "population_proper": "174000"
+  }
+]
