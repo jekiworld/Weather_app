@@ -162,3 +162,28 @@
   .rightSide{padding-left:25px;}
   .cardWrap{margin-top: 20px;padding-top:10px;padding-bottom:10px;}
 }
+
+.weatherAdvice {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  padding: 15px;
+  margin-top: 20px;
+  color: #fff;
+}
+
+/* Стили для кнопки получения совета по одежде */
+.weatherAdviceButton {
+  background: #fff;
+  color: #000;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.weatherAdviceButton:hover {
+  background: #000;
+  color: #fff;
+}
